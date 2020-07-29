@@ -11,7 +11,7 @@ print("Hello","Bye", end='**')
 print("Again","Bye",)
 
 # Since they are named, order output doesnt matter
-print("A","B","C",end="!!",sep="_")
+# print("A","B","C",end="!!",sep="_")
 
 # file
 
