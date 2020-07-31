@@ -23,3 +23,7 @@ print(5 == 5.0) #True
 print((5==5.1)==True)
 print((5==5.1)==False)
 print((5!=5.1)==True)
+
+print((5==5.1)==True)
+print((5==5.1)==False)
+print((5!=5.1)==True)
