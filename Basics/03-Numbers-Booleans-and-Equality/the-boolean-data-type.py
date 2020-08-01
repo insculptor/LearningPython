@@ -10,7 +10,7 @@ else:
     print("False it is")
 
 
-print(5==6)
+print(5!=6)
 print(5==5)
 
 print("ravi" == 'ravi')
