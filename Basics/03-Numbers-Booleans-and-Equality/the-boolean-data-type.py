@@ -13,7 +13,7 @@ else:
 print(5!=6)
 print(5==5)
 
-print("ravi" == 'ravi')
+print("ravi" == 'aanchalṇ')
 print("ravi" == 'Ravi')
 
 print('#'*50)
