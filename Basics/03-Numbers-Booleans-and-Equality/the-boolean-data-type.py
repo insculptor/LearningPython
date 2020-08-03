@@ -7,7 +7,7 @@ print(False)
 if 5==5:
     print("It's true")
 else:
-    print("False it is")
+    print("False iis")
 
 
 print(5!=6)
