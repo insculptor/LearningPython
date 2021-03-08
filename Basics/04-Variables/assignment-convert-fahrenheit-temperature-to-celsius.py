@@ -22,7 +22,15 @@ print(fact_or_fiction)
  # In dynamically typed language (Pytjon), a variable can be reassinged to any type of object
 
  ######################################
+# Python is a consenting adult language
+# Technically, ules are not required, but we follow some while writing code
+# like snake_case
 
- 
+### Variable Namind Rules
+
+# No space
+# first char= Letter\_
+# Variable names are Case-sensitive
+#
 
 
